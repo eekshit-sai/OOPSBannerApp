@@ -1,7 +1,7 @@
 /*
 *OOPSBannerApp UC7
 *
-*@author Eekshit
+*@author Ekshit
 *@version 7.0 
 */
 
